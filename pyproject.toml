@@ -1,6 +1,6 @@
 [project]
-name = "signal_decrypt_backup"
-version = "0.0.1+20250301"
+name = "signal-decrypt-backup"
+version = "0.0.1+20250529"
 description = "Decrypt Signal backups"
 license = { text = "GPL-3.0" }
 readme = "README.md"
